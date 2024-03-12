@@ -1,6 +1,6 @@
 <h1  align="center">Hello, I'm Lala👋</h1> 
 <h2  align="center">I'm interested in Web Development and Design</h2>
-<img src="https://i.pinimg.com/564x/79/78/da/7978daaa62d3caf001a2230c59e37aec.jpg" alt="Italian Trulli">
+<img src="https://i.pinimg.com/564x/79/78/da/7978daaa62d3caf001a2230c59e37aec.jpg" align="center" alt="Italian Trulli">
 
 <h3 align="left">I am an Information Technologies student in Azerbaijan. Currently, I am:</h3>
 <p>💻Studying my 2nd year at Baku Engineering University;</p>
