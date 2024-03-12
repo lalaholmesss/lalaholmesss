@@ -7,11 +7,15 @@
 <p>🎯 Focusing on sharpening my skills and learning new things;</p>
 
 
+<h3 align="left">You can contact me on:</h3>
+<a href="https://linkedin.com/in/lala alimova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lala alimova" height="30" width="40" /></a></br>
+<a href="https://www.codechef.com/users/lalaholmes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lalaholmes" height="30" width="40" /></a></br>
+<a href="https://www.hackerrank.com/lalaholmesart00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lalaholmesart00" height="30" width="40" /></a>
+</p>
 
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lalaholmesss)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Lala Alimova/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/lalaholmesart00)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalaholmesss)](https://github.com/anuraghazra/github-readme-stats)
 
