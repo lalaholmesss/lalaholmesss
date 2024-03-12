@@ -3,8 +3,8 @@
 
 
 <h3 align="left">I am an Information Technologies student in Azerbaijan. Currently, I am:</h3>
-<p>⭐ Studying my 2nd year at Baku Engineering University;</p>
-<p>⭐ Focusing on sharpening my skills and learning new things;</p>
+<p>⊹ ࣪ ˖ Studying my 2nd year at Baku Engineering University;</p>
+<p>⊹ ࣪ ˖ Focusing on sharpening my skills and learning new things;</p>
 
 <hr>
 <h3 align="left">My socials:</h3>
