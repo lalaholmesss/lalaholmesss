@@ -19,8 +19,8 @@
 
 <hr>
 <!-- Stats -->
-<b>💻 GitHub Profile Stats</b>
-<br>
+<h3>GitHub Profile Stats</h3>
+
 <p align="center">
   <img alt="Mosted used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalaholmesss&layout=compact&theme=dark" height="192px"/>
   <br>
