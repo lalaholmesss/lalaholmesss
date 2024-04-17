@@ -9,7 +9,7 @@
 
 <hr>
 <h3 align="left">My socials:</h3>
-<a href="https://www.linkedin.com/in/lala-a-429774276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lala alimova" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/lala-alimova-429774276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lala alimova" height="40" width="50" /></a>
 <a href="https://www.hackerrank.com/lalaholmesart00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lalaholmesart00" height="40" width="50" /></a>
 </p>
 
