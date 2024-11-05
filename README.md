@@ -1,12 +1,12 @@
-<h1  align="center">˖⁺‧₊˚Hello, I'm<span style="color: #F978B2">  Lala</span> ♡ ˚₊‧⁺˖</h1> 
-<h2  align="center">I'm interested in Web Development and Design</h2>
+<h1  align="center">˖⁺‧₊˚Hello, I'm Lala</span> ♡ ˚₊‧⁺˖</h1> 
+<h2  align="center">I'm witch and I can create anything</h2>
 <h2 align="center"><a  href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flalaholmesss&count_bg=%2379C83D&title_bg=%23F978B2&icon=&icon_color=%23E7E7E7&title=%E2%98%86.%E1%90%9F&edge_flat=false"/></a></h2>
 
 
 <h3 align="left">I am an Information Technologies student in Azerbaijan. Currently, I am:</h3>
-<p>꩜ Studying my 2nd year at Baku Engineering University;</p>
+<p>꩜ Studying my 3nd year at Baku Engineering University;</p>
+<p>꩜ Learning React;</p>
 <p>꩜ Focusing on sharpening my skills and learning new things;</p>
-
 <hr>
 <h3 align="left">My socials:</h3>
 <a href="https://www.linkedin.com/in/lala-alimova-429774276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lala alimova" height="40" width="50" /></a>
