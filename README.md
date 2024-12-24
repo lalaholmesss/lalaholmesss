@@ -4,7 +4,7 @@
 
 
 <h3 align="left">I am an Information Technologies student in Azerbaijan. Currently, I am:</h3>
-<p>꩜ Studying my 3nd year at Baku Engineering University;</p>
+<p>꩜ Studying my 3rd year at Baku Engineering University;</p>
 <p>꩜ Learning React;</p>
 <p>꩜ Focusing on sharpening my skills and learning new things;</p>
 <hr>
