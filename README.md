@@ -1,23 +1,19 @@
 <h1  align="center">˖⁺‧₊˚Hello, I'm Lala</span> ♡ ˚₊‧⁺˖</h1> 
 <h2  align="center">🪄</h2>
-<h2 align="center"><a  href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flalaholmesss&count_bg=%2379C83D&title_bg=%23F978B2&icon=&icon_color=%23E7E7E7&title=%E2%98%86.%E1%90%9F&edge_flat=false"/></a></h2>
 
-
-<h3 align="left">I am an Information Technologies student in Azerbaijan. Currently, I am:</h3>
+<h3 align="left">I am an Front-end developer based in Azerbaijan. Currently, I am:</h3>
 <p>꩜ Studying my 3rd year at Baku Engineering University;</p>
-<p>꩜ Learning React;</p>
 <p>꩜ Focusing on sharpening my skills and learning new things;</p>
 <hr>
-<h3 align="left">My socials:</h3>
-<a href="https://www.linkedin.com/in/lala-alimova-429774276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lala alimova" height="40" width="50" /></a>
-<a href="https://www.hackerrank.com/lalaholmesart00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lalaholmesart00" height="40" width="50" /></a>
+<h3 align="left">Where you can reach me:</h3>
+<a href="https://www.linkedin.com/in/lala-alimova-429774276/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://discord.com/users/lalaad/" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="55" height="55"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> </a> </p>
-
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,cpp,github,blender" /> </p>
 <hr>
 <!-- Stats -->
 <h3>GitHub Profile Stats</h3>
