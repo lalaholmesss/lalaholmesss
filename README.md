@@ -13,7 +13,7 @@
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite,cpp,vercel,github,figma,blender" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite,cpp,vercel,github,figma,blender,dotnet" /> </p>
 <hr>
 <!-- Stats -->
 <h3>GitHub Profile Stats</h3>
